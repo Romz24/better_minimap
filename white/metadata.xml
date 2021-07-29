@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-    <name>[REP] Better minimap in white</name>
+    <name>!!Better Minimap ~White~</name>
     <directory>better_minimap_white</directory>
     <id>2535623301</id>
     <description>[h1]Mod description[/h1]
-This mod provides a better looking minimap devoid of thick borders and changes its background
-
-Looking for a dark version? [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2534310479]Goto this link[/url].</description>
+An alternate take on [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2534310479]Better Minimap[/url]. Like the other mod, this mod trims out a lot of the thick borders from the minimap and includes support for [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1978904635]MiniMAPI[/url], but this version comes in a high contrast white theme.</description>
     <version>1.1</version>
     <visibility>Public</visibility>
     <tag id="Tweaks"/>
